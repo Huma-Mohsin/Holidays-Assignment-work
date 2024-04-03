@@ -1,0 +1,8 @@
+When creating a program for validating password, following scenarios and considerations are keep in mind to write a code as :-
+
+ must be atleast one character of:-
+
+ 1-uppercase
+ 2-lowercase
+ 3-special characters
+ 4-numbers 
